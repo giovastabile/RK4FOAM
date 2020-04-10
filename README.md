@@ -1,2 +1,2 @@
-# TurbLab
-A set of codes developed for incompressible LES (Large eddy Simulation) in OpenFOAM
+# RK4FOAM
+A set of different implementations in OpenFOAM of Runge Kutta explict solvers
